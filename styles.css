@@ -135,3 +135,7 @@ section{
   text-wrap: nowrap;
   transition: 0.2s ease-in-out;
 }
+.btn:hover{
+  background-color: black;
+  color: white;
+}
